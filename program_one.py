@@ -9,6 +9,8 @@ os.system('start ' + 'https://www.google.com/')
 os.system('start ' + 'https://www.google.com/')
 os.system('start ' + 'https://www.google.com/')
 os.system('start ' + 'https://www.google.com/')
+os.system('start ' + 'https://www.google.com/')
+os.system('start ' + 'https://www.google.com/')
 os.system('start ' + 'https://www.google.com/') 
 
 time.sleep(3)
